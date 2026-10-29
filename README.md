@@ -1,5 +1,7 @@
 # Fluid+Portal Vox Launcher
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 Браузерная игра: запускаем шар в уровнях с воксельной разрушаемостью, жидкостями и порталами. Цель уровня — достичь зоны финиша, используя разрушение и окружение.
 
 ## Технологии
@@ -130,3 +132,8 @@ pnpm format
 
 MIT
 
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
